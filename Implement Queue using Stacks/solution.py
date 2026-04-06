@@ -7,7 +7,6 @@ class Node:
 class Stack:
     def __init__(self):
         self.top = None
-        self._size = 0
 
 
     def push(self, x):
